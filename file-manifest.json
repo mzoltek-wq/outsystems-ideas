@@ -1,0 +1,267 @@
+[
+  {
+    "file": ".gitignore",
+    "bytes": 95,
+    "sha256": "ee505882987d2f66abc52329e7febbd9e8da688af2092543239c30a6cbc0ab57"
+  },
+  {
+    "file": "01-build-it-live-strategy/README.md",
+    "bytes": 857,
+    "sha256": "71d822f6340803128215ca36e0a5aec7a001d007e712101f3bca4884df8b5aa6"
+  },
+  {
+    "file": "01-build-it-live-strategy/build-it-live-one-pager.pdf",
+    "bytes": 7197,
+    "sha256": "6aa6afa4cb3ee99abb6f52166b57c9c4eb60fff27692ad64256bcbbb4d752a13"
+  },
+  {
+    "file": "01-build-it-live-strategy/build-it-live-one-pager.png",
+    "bytes": 310840,
+    "sha256": "e64ce9fce54dadd00e07233ac7f63803941ece30f2a6168e737b69430d70fcde"
+  },
+  {
+    "file": "01-build-it-live-strategy/build-it-live-vp-devrel-draft.pptx",
+    "bytes": 1748674,
+    "sha256": "4d7f147ba6b7793a6425a16255cf05fb4cdfc77a3f244a7896a086dd08ab8dd6"
+  },
+  {
+    "file": "01-build-it-live-strategy/source/build_it_live_one_pager.py",
+    "bytes": 10170,
+    "sha256": "731d1c805580a3a8a87b037c4cef14563ee06ec5283e24679b15c685013c8a8e"
+  },
+  {
+    "file": "02-build-it-live-workflow/README.md",
+    "bytes": 2042,
+    "sha256": "f9743605603b520c25a9f3e505b427afa5776ef2be5db26fdd4fa5bf031f63b5"
+  },
+  {
+    "file": "02-build-it-live-workflow/source/.gitignore",
+    "bytes": 65,
+    "sha256": "876fe3aab0de80750509a3853b8d89591367e963ed03dad043e5f35a242657ed"
+  },
+  {
+    "file": "02-build-it-live-workflow/source/index.html",
+    "bytes": 305,
+    "sha256": "6d5e5981f168e43d886fa7eea771e2b14cde0597e0565f6e645bb5cbfea79dec"
+  },
+  {
+    "file": "02-build-it-live-workflow/source/package-lock.json",
+    "bytes": 41450,
+    "sha256": "0adc8bdc104e02a0e64e8b75c26be082dc53e9b2521cb5f64eefafeaf2ba3bf3"
+  },
+  {
+    "file": "02-build-it-live-workflow/source/package.json",
+    "bytes": 582,
+    "sha256": "45c3dc03c15febf464d5876d760808bd12816b3b46837b51d71c5589f1f66488"
+  },
+  {
+    "file": "02-build-it-live-workflow/source/src/App.tsx",
+    "bytes": 8927,
+    "sha256": "322c9971a8bdb37821aafeff86b0ad01fdbacf49c2b8bb9b7824e26bfff726a3"
+  },
+  {
+    "file": "02-build-it-live-workflow/source/src/components/DetailDrawer.tsx",
+    "bytes": 3216,
+    "sha256": "796d72be13d600dcc00c56eeda3a20c5d8713ae2d3891d33c470c7450ba7fb56"
+  },
+  {
+    "file": "02-build-it-live-workflow/source/src/components/Filters.tsx",
+    "bytes": 2335,
+    "sha256": "f544271206e7e46db5d651c6176b82c35420e7a9da923cc990d6036ec92cf778"
+  },
+  {
+    "file": "02-build-it-live-workflow/source/src/components/FlowNode.tsx",
+    "bytes": 1662,
+    "sha256": "411265777a9b37f9a4af37b6119a1a4e29f5b196d58f71e97d8a636a581ccef2"
+  },
+  {
+    "file": "02-build-it-live-workflow/source/src/components/Legend.tsx",
+    "bytes": 1401,
+    "sha256": "28d7e815d4b8ac376269130f0540cc9495e0f784708f52e4c62e7d405f7dc0aa"
+  },
+  {
+    "file": "02-build-it-live-workflow/source/src/components/MeasurementBlueprint.tsx",
+    "bytes": 7389,
+    "sha256": "fa56fca065c664e865c54bf25a28ef3f931722913e2781523878004b98186d6e"
+  },
+  {
+    "file": "02-build-it-live-workflow/source/src/components/SimulationLab.tsx",
+    "bytes": 13659,
+    "sha256": "9ade8b23771770dfb296f540d7a370982443441ce0ad5a3d112157dfc749d2bf"
+  },
+  {
+    "file": "02-build-it-live-workflow/source/src/data/buildItLiveFlow.ts",
+    "bytes": 21596,
+    "sha256": "ef1dbb6505f69eb35e199268bcde49d91a945687d3ffb3fc40ac78d93f33ea2c"
+  },
+  {
+    "file": "02-build-it-live-workflow/source/src/data/simulation.ts",
+    "bytes": 11266,
+    "sha256": "e56f7d6dc40f14f3f047c2f61ac1ef920c5aa9a468f51a69a683945a3bd67211"
+  },
+  {
+    "file": "02-build-it-live-workflow/source/src/main.tsx",
+    "bytes": 281,
+    "sha256": "e98f440346b1810a3fa34fef4752cc2b204d04fc81f26dcaa1ad41f6f3dda035"
+  },
+  {
+    "file": "02-build-it-live-workflow/source/src/styles.css",
+    "bytes": 42134,
+    "sha256": "3399d023f818ade767058a3ba220b9a30cfb13e271d5cebd83e6f430d637ce87"
+  },
+  {
+    "file": "02-build-it-live-workflow/source/src/vite-env.d.ts",
+    "bytes": 38,
+    "sha256": "65996936fbb042915f7b74a200fcdde7e410f32a669b1ab9597cfaa4b0faddb5"
+  },
+  {
+    "file": "02-build-it-live-workflow/source/tsconfig.json",
+    "bytes": 527,
+    "sha256": "fbbc8bc54ee0cb78fccc47ec084e51735a7ecb47e6b4151e534afb085434e56b"
+  },
+  {
+    "file": "02-build-it-live-workflow/source/tsconfig.node.json",
+    "bytes": 187,
+    "sha256": "66362d3973b411c9da6f18808a7149f5e1cf0c3e099815a107a61a71db792adc"
+  },
+  {
+    "file": "02-build-it-live-workflow/source/vite.config.ts",
+    "bytes": 136,
+    "sha256": "eca485c281977125366d4800553256e419f364984e615f75a2d2bae54f7857fd"
+  },
+  {
+    "file": "03-team-landing-page/README.md",
+    "bytes": 998,
+    "sha256": "ef55181da756df3d91e7f84028cdc1e493554498403e41e81a6ec34109925b00"
+  },
+  {
+    "file": "03-team-landing-page/site/BILBannerNew.png",
+    "bytes": 1867895,
+    "sha256": "0a60124d8e7ba2f1ede91b2a2cc5eb7e8a5b7f737755ad8d410b2d60850a7b1b"
+  },
+  {
+    "file": "03-team-landing-page/site/archive.html",
+    "bytes": 24108,
+    "sha256": "13ed56b63964e9f401d27b7f926624ddba8972378820a28ecda7d84284228626"
+  },
+  {
+    "file": "03-team-landing-page/site/index.html",
+    "bytes": 25083,
+    "sha256": "8957647cd62c5d334ae26ffcd9cc6cb80b9f96e79beb42928f0e7a8b997d8ce4"
+  },
+  {
+    "file": "03-team-landing-page/site/script.js",
+    "bytes": 15272,
+    "sha256": "5fa6bea2391d3c43ae21f7f36363b9aef7b05500afbc022ed501031edd795847"
+  },
+  {
+    "file": "03-team-landing-page/site/session-data.js",
+    "bytes": 11110,
+    "sha256": "fa3bf684aa30d31e3430474196c217502115748bfa4e7b2c60f7c970b9718224"
+  },
+  {
+    "file": "03-team-landing-page/site/session.html",
+    "bytes": 7912,
+    "sha256": "53745f769e34eeaf56b7fc6070cf419fe9ad7def3da1691cf89eca4398dd92ca"
+  },
+  {
+    "file": "03-team-landing-page/site/styles.css",
+    "bytes": 28507,
+    "sha256": "318f2b37bc4ce8656a13730295d17e1ba3c3430b89a6f8c4780c2d5234d91ac5"
+  },
+  {
+    "file": "04-free-offering/README.md",
+    "bytes": 999,
+    "sha256": "40de1012e2d82b2edd822eeb3493cf0b16eac4db0ecc25aa8a6efde02319e9e3"
+  },
+  {
+    "file": "04-free-offering/site/app.js",
+    "bytes": 412,
+    "sha256": "585cebb83e08792ab1ec99059f77a16c1efb4efbc4956b331d3ff3990bb4c8c8"
+  },
+  {
+    "file": "04-free-offering/site/index.html",
+    "bytes": 9318,
+    "sha256": "344ccde3e5bea69238f7b2feff3b95bb32d8ad4ac42a64cf6a70213700fc3d4c"
+  },
+  {
+    "file": "04-free-offering/site/styles.css",
+    "bytes": 9205,
+    "sha256": "76d454e8d9ab15762818084343b01dadcba58c955522886b7b9f5a23e2f73124"
+  },
+  {
+    "file": "04-free-offering/strategy-discussion.md",
+    "bytes": 17976,
+    "sha256": "f8df8b91612af23f44df9d55aed03fbf697cef72e9ec21a34e4eb621f2c8cd1c"
+  },
+  {
+    "file": "07-inbound-strategy/README.md",
+    "bytes": 548,
+    "sha256": "13d22cab2be9525dc9ad00fb66e93776bd5ad3b2579c5bf43d20c3858c8adfea"
+  },
+  {
+    "file": "07-inbound-strategy/strategy.md",
+    "bytes": 20775,
+    "sha256": "2db8fb04bda0b46b6101007fcf7d099de3cdc13520f60a4230b32dd350f5b096"
+  },
+  {
+    "file": "08-video-content/OutSystems_AI_Video_Content_Ideas_Google_Docs_Ready.docx",
+    "bytes": 45717,
+    "sha256": "2a84f1c461f370e4b18588cea292ec4f17168651ab83596060484f730a9c1a7a"
+  },
+  {
+    "file": "08-video-content/OutSystems_AI_Video_Content_Ideas_Google_Docs_Ready.md",
+    "bytes": 22143,
+    "sha256": "72eae6bfddaf161607dd852da7be266e2b07eb258298c2d52e8ce157a773a16d"
+  },
+  {
+    "file": "08-video-content/OutSystems_AI_Video_Content_Ideas_Google_Docs_Ready_v2.docx",
+    "bytes": 45585,
+    "sha256": "3e5e668bb0f919914524886b069514c520b7695740ab55b46a9521240ed99cb6"
+  },
+  {
+    "file": "08-video-content/OutSystems_AI_Video_Content_Ideas_Google_Docs_Ready_v2.md",
+    "bytes": 22443,
+    "sha256": "3d370da9f5e2a067ce63602a306bd2549812961c690222820266c7d285545a4e"
+  },
+  {
+    "file": "08-video-content/OutSystems_AI_Video_Content_Ideas_with_Agent_Validation.docx",
+    "bytes": 11839,
+    "sha256": "0fd2c80bcf8be3d62db2fb910a7118afa3bd88816a9f62def1b944f48f690bc3"
+  },
+  {
+    "file": "08-video-content/OutSystems_AI_Video_Content_Ideas_with_Agent_Validation.md",
+    "bytes": 25991,
+    "sha256": "c8a325f8426cb5c1a2a90e4df208ee21ba09b769ce1c41afc5451b6edf84b47a"
+  },
+  {
+    "file": "08-video-content/README.md",
+    "bytes": 1193,
+    "sha256": "a40b69d014930670ff4e9694114f41b6226c7550820135180019bf9eb14ce9ce"
+  },
+  {
+    "file": "09-blueprint-sessions/README.md",
+    "bytes": 582,
+    "sha256": "18e6cfbc13ce1f00f59f7a58b6621e286c1bff6847bf0a8d0d957b3d56fb37ac"
+  },
+  {
+    "file": "09-blueprint-sessions/naming-and-positioning.md",
+    "bytes": 15820,
+    "sha256": "6ee682f52397476565fd39e5f4f55373ac034ad78eb4ded38308413c3d00e17f"
+  },
+  {
+    "file": "PROJECT-STATUS.md",
+    "bytes": 6537,
+    "sha256": "0ef2db06ba333ac38dc2c78aac708da05650655b99df1cd18c9037efd5ef944a"
+  },
+  {
+    "file": "README.md",
+    "bytes": 4229,
+    "sha256": "dc4ff5ebb8b4c39d4535525fa79a2402abf51448bd6fe6b0f6fe09a90c9ca648"
+  },
+  {
+    "file": "source-register.json",
+    "bytes": 1270,
+    "sha256": "052cfc9fd2819fc4ff03e91458eca72b72e5fa6754c4f0ab3964768bf294d188"
+  }
+]

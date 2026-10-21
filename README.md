@@ -18,6 +18,8 @@ Prepared 21 October 2026. The numbered folders match the original inventory sele
 
 [Project status and next decisions](PROJECT-STATUS.md) provides the detailed context and source references for each group.
 
+[Export and move this handoff](EXPORT.md) explains how to download all files, preserve Git history, or move the collection into company storage later.
+
 ## Suggested review order
 
 1. Read the Build It Live one-pager to understand the proposed program.
